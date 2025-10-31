@@ -2,7 +2,7 @@ import icn1 from  "../../assets/icon/netflix.png"
 import icn2 from  "../../assets/icon/search-icon.png"
 import icn3 from  "../../assets/icon/cart.png"
 import me from  "../../assets/icon/me.jpg"
-import arrow from  "../../assets/icon/arrow.svg"
+import arrow from  "../../assets/icon/arrow.png"
 
 import Avatar from '@mui/joy/Avatar';
 
@@ -33,8 +33,11 @@ function Header() {
             <li className="icon-cart">
               <a href="/cart/"><img src={icn3}alt="" /></a>
             </li>
-             <li className="icon-arrow">
+             {/* <li className="icon-arrow">
               <Avatar alt="Remy Sharp" src={me}/>
+            </li> */}
+            <li className="icon-arrow">
+              <a href="/cart/"><img src={arrow}alt="" /></a>
             </li>
           </ul>
           </div>

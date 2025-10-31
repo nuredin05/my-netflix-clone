@@ -6,7 +6,7 @@
   align-items: center;
   background-color: transparent;
   font-family: Arial, sans-serif;
-  height: 10vh;
+  height: 9vh;
   color: white;
   transition: all 0.5s;
   transition-timing-function: ease-in;
@@ -46,6 +46,7 @@
   font-size: 16px;
 }
 
+.icon-arrow img,
 .icon-search img,
 .icon-cart img {
   height: 24px;
