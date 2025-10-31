@@ -1,0 +1,9 @@
+:root {
+  background-color: #faf7f7;
+  --primary-color: white;
+  --secondary-color: red;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
