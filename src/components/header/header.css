@@ -11,7 +11,7 @@
   transition: all 0.5s;
   transition-timing-function: ease-in;
   z-index: 1;
-  background-color: rgb(56, 50, 50);
+  background-color: rgb(8, 8, 8);
 }
 
 .container {
@@ -49,7 +49,7 @@
 .icon-arrow img,
 .icon-search img,
 .icon-cart img {
-  height: 24px;
+  height: 18px;
   width: auto;
   cursor: pointer;
 }

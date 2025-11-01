@@ -39,12 +39,13 @@
 }
 .links-container a {
   text-decoration: none;
-  color: #515154;
+  color: #f2f2f5;
   list-style: none;
   transition: color 0.2s ease;
 }
-.at p {
+.copy-right-container p {
   align-items: center;
   justify-content: center;
   list-style: none;
+  color: aliceblue;
 }

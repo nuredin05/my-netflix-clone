@@ -61,8 +61,8 @@ export default function Footer(){
                     More ways to shop: <a href="#">Find an Apple Store</a> or other retailer near you.
                     Or call 1-800-MY-APPLE.
                 </p>
-                <div className="at">
-                    <p>Copyright © 2019 Apple Inc. All rights reserved.</p></div>
+               
+                    <p>Copyright © 2019 Apple Inc. All rights reserved.</p>
               </div>              
         </div>
 

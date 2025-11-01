@@ -2,7 +2,7 @@ import icn1 from  "../../assets/icon/netflix.png"
 import icn2 from  "../../assets/icon/search-icon.png"
 import icn3 from  "../../assets/icon/cart.png"
 import me from  "../../assets/icon/me.jpg"
-import arrow from  "../../assets/icon/arrow.png"
+import arrow from  "../../assets/icon/down-arrow.png"
 
 import Avatar from '@mui/joy/Avatar';
 
