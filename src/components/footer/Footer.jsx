@@ -62,7 +62,7 @@ export default function Footer(){
                     Or call 1-800-MY-APPLE.
                 </p>
                
-                    <p>Copyright © 2019 Apple Inc. All rights reserved.</p>
+                    <p>Copyright © 2025 Apple Inc. All rights reserved.</p>
               </div>              
         </div>
 

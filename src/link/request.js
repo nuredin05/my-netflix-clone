@@ -1,7 +1,6 @@
 // the api must be hide in gitignore 
 
-const API_KEY = 'ad3f8a111ce1b2198eed457d1f20148e'; // ✅ Correct
-
+const API_KEY = 'ad3f8a111ce1b2198eed457d1f20148e';
 
 const request={
 fetchTrending: `trending/all/week?api_key=${API_KEY}&language=en-US`,
